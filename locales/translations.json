@@ -53,6 +53,20 @@
       "draw": "Показать новые данные",
       "selection": "Выбрать данные для экспорта",
       "legend": "Показать/скрыть описание"
+    },
+    "et": {
+      "labels": {
+        "autoscale": "Automaatne skaala",
+        "draw": "Joonista",
+        "selection": "Vali",
+        "legend": "Legend"
+      },
+      "tooltips": {
+        "autoscale": "Näita kõiki andmeid",
+        "draw": "Näita uusi andmeid",
+        "selection": "Vali andmed mida eksportida",
+        "legend": "Näita/peida legendid"
+      }
     }
   }
 }
